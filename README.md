@@ -4,7 +4,7 @@ Project objectives
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
-Files in this repository
+# Files in this repository
 
 run_analysis.R: Main script
 featureNameRefine.R: Script that defines the helper function to refine the feature names
